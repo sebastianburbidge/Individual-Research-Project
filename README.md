@@ -8,3 +8,8 @@ Processed-Samples contains .csv files with the preprocessed data used by the R f
 main.R plots all the data. It is currently configured for the 2023 data, which has slightly different headings.
 
 preprocessing.py processes all the data. It is currently configured for the 2023 data, which has slightly different headings. This file was generated with the help of Google Gemini.
+
+confusion_matrices.xlsx contains confusion matrices for the cluster analysis.
+
+2026 data was taken from https://www.kaggle.com/datasets/alitaqishah/ai-vs-human-text-classification-dataset-2026/data
+2023 data was taken from https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset
