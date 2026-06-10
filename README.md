@@ -5,9 +5,9 @@ Images folder contains generated plots. "aca" is used to denote data sampled onl
 
 Processed-Samples contains .csv files with the preprocessed data used by the R file. These samples were used to generate the data seen in the poster.
 
-main.R plots all the data. It is currently configured for the 2023 data, which has slightly different headings.
+main.R plots all the data. It is currently configured for the 2026 data, which has slightly different headings to the 2023 data.
 
-preprocessing.py processes all the data. It is currently configured for the 2023 data, which has slightly different headings. This file was generated with the help of Google Gemini.
+preprocessing.py processes all the data. It is currently configured for the 2026 data. This file was generated with the help of Google Gemini.
 
 confusion_matrices.xlsx contains confusion matrices for the cluster analysis.
 
